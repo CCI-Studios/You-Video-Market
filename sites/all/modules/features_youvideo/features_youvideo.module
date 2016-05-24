@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the YouVideoMarket Features feature.
+ */
+
+include_once 'features_youvideo.features.inc';

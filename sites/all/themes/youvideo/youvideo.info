@@ -1,0 +1,25 @@
+name = youvideo
+description = youvideo Custom
+core = 7.x
+
+scripts[] = js/grid_list.js
+scripts[] = js/form-validation.js
+scripts[] = js/mobile-menu.js
+scripts[] = js/videos-page.js
+
+stylesheets[all][] = css/screen.css
+
+regions[navigation] = Navigation
+regions[header] = Header
+regions[help] = Help
+regions[search] = search
+regions[front-section1] = Front section 1
+regions[front-section2] = Front section 2
+regions[videos] = videos
+regions[content] = Content
+regions[sidebar] = Sidebar
+regions[widgets] = Widgets
+regions[footer1] = Target Market
+regions[footer2] = Green Footer
+regions[footer3] = Black Footer
+
